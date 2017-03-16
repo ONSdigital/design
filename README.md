@@ -2,12 +2,12 @@
 
 The beginnings of a consistent design manual for the whole of ONS digital.
 
-
 ## Resources
+- [Survey Data Collection pattern library](https://onsdigital.github.io/sdc-global-design-patterns/)
+- [Digital Publishing pattern library](https://onsdigital.github.io/ons-pattern-library-starter/)
+- [Style.ONS content style guide](http://style.ons.gov.uk/)
 - [ONS Digital blog](http://digitalblog.ons.gov.uk/)
-- [Content style guide](http://style.ons.gov.uk/)
-- [ONS website pattern library](https://onsdigital.github.io/ons-pattern-library-starter/)
-- [Digital publishing principles](https://github.com/ONSdigital/dp-principles)
+- [Digital Publishing principles](https://github.com/ONSdigital/dp-principles)
 
 
 ## License
