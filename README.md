@@ -4,6 +4,7 @@ The beginnings of a consistent design manual for the whole of ONS digital.
 
 ## Sections
 - [Content](content.md)
+- [Logo](logo.md)
 
 ## Resources
 - [Survey Data Collection pattern library](https://onsdigital.github.io/sdc-global-design-patterns/)
