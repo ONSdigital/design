@@ -1,7 +1,7 @@
 # Content
 
 ## Style.ONS
-- Style.ONS is a style guide that covers the elements of writing about statistic
+- Style.ONS is a style guide that covers the elements of writing about statistics
 - http://style.ons.gov.uk/
 
 ## Title tag
