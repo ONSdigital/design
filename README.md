@@ -1,4 +1,4 @@
-# ONS Digital design manual
+# ONS Digital design
 
 ## Design Community
 - We meetup once a month
