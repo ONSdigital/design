@@ -1,10 +1,14 @@
 # ONS Digital design manual
 
-The beginnings of a consistent design manual for the whole of ONS digital.
+## Design Community
+- We meetup once a month
+- Join our [Slack channel](https://onsdigital.slack.com/messages/design/)
+- Join our [Google Drive folder](https://drive.google.com/drive/folders/0B6xD0e1Nv4EhX2VVcEFXNVJRek0?usp=sharing)
+- Need invites? Email Benjy [benjamin.stanton@ons.gov.uk](benjamin.stanton@ons.gov.uk)
 
-## Sections
+<!-- ## Sections
 - [Content](content.md)
-- [Logo](logo.md)
+- [Logo](logo.md) -->
 
 ## Resources
 - [Survey Data Collection pattern library](https://onsdigital.github.io/sdc-global-design-patterns/)
@@ -13,7 +17,6 @@ The beginnings of a consistent design manual for the whole of ONS digital.
 - [Visual.ONS GitHub repos](https://github.com/ONSvisual)
 - [ONS Digital blog](http://digitalblog.ons.gov.uk/)
 - [Digital Publishing principles](https://github.com/ONSdigital/dp-principles)
-
 
 ## License
 
