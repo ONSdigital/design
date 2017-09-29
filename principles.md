@@ -1,4 +1,6 @@
-# Principle
+# Principles
+
+Draft design principles from the ONS design community.
 
 1. Be inclusive, not exclusive
 Everything we build should be inclusive. If you can’t make something inclusive, provide an alternative method of accessing the content.
