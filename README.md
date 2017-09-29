@@ -2,6 +2,7 @@
 
 ## Design Community
 - We meetup once a month
+- Read our [design principles](principles.md)
 - Join our [Slack channel](https://onsdigital.slack.com/messages/design/)
 - Join our [Google Drive folder](https://drive.google.com/drive/folders/0B6xD0e1Nv4EhX2VVcEFXNVJRek0?usp=sharing)
 - Follow us on [Twitter](https://twitter.com/benjystanton/lists/ons-design)
