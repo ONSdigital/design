@@ -3,8 +3,9 @@
 (also known as design crits)
 
 ## Resources
-- [New year, new eyes on your work by Simon Wilson](http://www.ermlikeyeah.com/design-review-slides/) [Blog post]
+- [New year, new eyes on your work by Simon Wilson](http://www.ermlikeyeah.com/design-review-slides/) [blog post]
 - [Design review template](https://docs.google.com/presentation/d/1hP0tlEawdwb0I-UI9s7_58SDpVKHBXC8apyESDaI3yI/edit?usp=sharing) [Google slides]
+- [Using design crits to improve collaboration](https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/) [blog post]
 
 ## Getting feedback
 ### 1. Set the context
