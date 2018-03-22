@@ -42,4 +42,4 @@
 - “What happens if…”
 - “Have you tried…”
 
-Source @claragt, @timpaul and @ermlikeyeah
+Source [@claragt](https://twitter.com/claragt), [@timpaul](https://twitter.com/timpaul) and [@ermlikeyeah](https://twitter.com/ermlikeyeah)
