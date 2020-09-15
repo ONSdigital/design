@@ -5,15 +5,14 @@
 - Read our [design principles](principles.md)
 - Join our [Slack channel](https://onsdigital.slack.com/messages/design/)
 - Join our [Google Drive folder](https://drive.google.com/drive/folders/0B6xD0e1Nv4EhX2VVcEFXNVJRek0?usp=sharing)
-- Follow us on [Twitter](https://twitter.com/benjystanton/lists/ons-design)
-- Need invites? Email Benjy [benjamin.stanton@ons.gov.uk](benjamin.stanton@ons.gov.uk)
+- Need invites? Email Ben [benjamin.armstrong@ons.gov.uk](benjamin.armstrong@ons.gov.uk)
 
 <!-- ## Sections
 - [Content](content.md)
 - [Logo](logo.md) -->
 
 ## Resources
-- [Survey Data Collection pattern library](https://onsdigital.github.io/sdc-global-design-patterns/)
+- [Design system (SDC+)](https://onsdigital.github.io/design-system)
 - [Digital Publishing pattern library](https://onsdigital.github.io/ons-pattern-library-starter/)
 - [Branding](https://onsdigital.github.io/dp-design-manual/branding/)
 - [Social Media Design Standards](https://onsdigital.github.io/dp-design-manual/social-media/)
