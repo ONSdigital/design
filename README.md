@@ -17,7 +17,6 @@
 - [Branding](https://onsdigital.github.io/dp-design-manual/branding/)
 - [Social Media Design Standards](https://onsdigital.github.io/dp-design-manual/social-media/)
 - [Style.ONS content style guide](http://style.ons.gov.uk/)
-- [Visual.ONS GitHub repos](https://github.com/ONSvisual)
 - [ONS Digital blog](http://digitalblog.ons.gov.uk/)
 - [Digital Publishing principles](https://github.com/ONSdigital/dp-principles)
 
