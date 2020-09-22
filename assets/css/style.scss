@@ -32,7 +32,9 @@ $header-bg-color: $indigo-blue;
 $color-focus: $neon-yellow;
 $color-focus-text: $night-blue;
 
-a {
+.main-content {
+    
+    a {
     color: $body-link-color;
     text-decoration: underline;
   
@@ -48,5 +50,6 @@ a {
         text-decoration: none;
       }
   }
-
+  
+}
 @import "{{ site.theme }}";
