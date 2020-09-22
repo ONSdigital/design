@@ -1,9 +1,52 @@
 ---
 ---
 // Set colours to ONS 2020 palette
+$spring-green: #A8BD3A;
 $mint-green:#00A3A6;
+$sky-blue: #27A0CC;
+$ocean-blue: #206095;
+$night-blue: #003C57;
 $indigo-blue: #3C388E;
+$plum-purple: #902082;
+$flamingo-pink: #DF0667;
+$ruby-red: #D0021B;
+$jaffa-orange: #FE781F;
+$sun-yellow: #FBC900;
+$neon-yellow: #F0F762;
+$leaf-green: #0F8243;
+// Greys
+$black: #222;
+$grey1: #414042;
+$grey2: #707071;
+$grey3: #bcbcbd;
+$grey4: #e2e2e3;
+$grey5: #f5f5f6;
+
+
+$body-link-color: $ocean-blue;
+$section-headings-color: $night-blue;
+
 $header-bg-color-secondary: $mint-green;
 $header-bg-color: $indigo-blue;
+
+$color-focus: $neon-yellow;
+$color-focus-text: $night-blue;
+
+a {
+    color: $body-link-color;
+    text-decoration: underline;
+  
+    &:hover {
+      text-decoration: none;
+    }
+
+    &:focus:not(.btn--link):not(.btn--ghost):not(.js-clear-btn):not(.download__thumbnail--link):not(.header__logo-link):not(.header__title-link):not(.tab--row):not(.skip__link) {
+        outline: 3px solid transparent;
+        background-color: $color-focus;
+        box-shadow: 0 -2px $color-focus, 0 4px $color-focus-text;
+        color: $color-focus-text;
+        text-decoration: none;
+      }
+  }
 
 @import "{{ site.theme }}";
