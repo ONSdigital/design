@@ -1,0 +1,9 @@
+---
+---
+// Set colours to ONS 2020 palette
+$mint-green:#00A3A6;
+$indigo-blue: #3C388E;
+$header-bg-color-secondary: $mint-green;
+$header-bg-color: $indigo-blue;
+
+@import "{{ site.theme }}";
