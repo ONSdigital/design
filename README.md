@@ -5,7 +5,7 @@
 - Read our [design principles](principles.md)
 - Join our [Slack channel](https://onsdigital.slack.com/messages/design/)
 - Join our [Google Drive folder](https://drive.google.com/drive/folders/0B6xD0e1Nv4EhX2VVcEFXNVJRek0?usp=sharing)
-- Need invites? Email [desig.community.@ons.gov.uk](mailto:design.community@ons.gov.uk)
+- Need invites? Email [design.community.@ons.gov.uk](mailto:design.community@ons.gov.uk)
 
 <!-- ## Sections
 - [Content](content.md)
